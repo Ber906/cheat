@@ -16,7 +16,7 @@ local BASE_URL =
     "https://raw.githubusercontent.com/Ber906/cheat/refs/heads/main/"
 
 local ROUTES = {
-    ["107778070777162"] = { name = "Steal An Egg",   file = "CloverHub(StealAnEgg).lua" },
+    ["107778070777162"] = { name = "Steal An Egg",   file = "CloverHubv2.lua" },
 }
 
 local success, loaderError = pcall(function()
