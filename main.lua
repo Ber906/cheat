@@ -13,15 +13,9 @@ end
 env.__CloverHubLoading = true
 
 local BASE_URL =
-    "https://raw.githubusercontent.com/Ryuun0x/Clover/refs/heads/main/"
+    "https://raw.githubusercontent.com/Ber906/cheat/refs/heads/main/"
 
 local ROUTES = {
-    ["126884695634066"] = { name = "Garden World",   file = "GardenWorld.lua" },
-    ["124977557560410"] = { name = "Garden World",   file = "GardenWorld.lua" },
-    ["129954712878723"] = { name = "Trading World",  file = "TradingWorld.lua" },
-    ["108890465381067"] = { name = "Trading World",  file = "TradingWorld.lua" },
-    ["97598239454123"]  = { name = "Garden World 2", file = "void.lua" },
-    ["77085202503540"]  = { name = "Garden World 2", file = "void.lua" },
     ["107778070777162"] = { name = "Steal An Egg",   file = "CloverHub(StealAnEgg).lua" },
 }
 
